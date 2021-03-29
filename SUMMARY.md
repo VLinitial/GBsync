@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GBsync](README.md)
+* [ICA-v](README.md)
 * [BBdoc](bbdoc/README.md)
   * [Analysis](bbdoc/analysis/README.md)
     * [Base](bbdoc/analysis/bluebase.md)

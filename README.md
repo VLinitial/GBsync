@@ -1,2 +1,2 @@
-# GBsync
+# ICA-v
 
