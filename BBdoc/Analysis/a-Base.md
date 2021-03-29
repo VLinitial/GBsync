@@ -1,5 +1,4 @@
-# BlueBase
-
+# Base
 ## Introduction to BlueBase
 
 BlueBase is a **genomics data aggregation** and **knowledge management** solution suite.
