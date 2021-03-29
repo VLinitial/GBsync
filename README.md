@@ -1,1 +1,2 @@
-# GBsync
+# Initial page
+
